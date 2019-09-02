@@ -4,11 +4,11 @@
 	   config stuff up here 
 ************************************/
 
-date_default_timezone_set('America/New_York');
-$my_podcast = '';  /* www.mixcloud.com/THISBIT/ */ 
+date_default_timezone_set('Slovakia/Bratislava');
+$my_podcast = '';  /* www.mixcloud.com/deejaybrian/ */ 
 
-$my_feed_url = ""; /* url where your cron job saves the output feed - used for self-reference */ 
-$language = "en-us";
+$my_feed_url = ""; /* feed.xml */ 
+$language = "sk";
 
 
 /***************************************
